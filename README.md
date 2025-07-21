@@ -2,11 +2,9 @@
 
 This project is developed as the second final case study for the **Data Analysis Bootcamp** organized by **[Patika.dev](https://www.patika.dev)** & **[Kız Başına](https://www.kizbasina.com/)**.
 
-<img width="1527" height="857" alt="PowerBI Report overview" src="https://github.com/user-attachments/assets/aedf0291-305e-4b62-9afc-49043cf2b39e" />
-
 ## 🎯 Project Objective
 
-The goal of this 3-week project is to enable participants to:
+The goal of this 3-week project is to:
 - Learn SQL by working with a sample dataset,
 - Write basic to intermediate queries,
 - Translate business requirements into code,
@@ -18,6 +16,8 @@ The goal of this 3-week project is to enable participants to:
 - Data is imported into **Power BI Desktop**.
 - Data modeling and **DAX** calculations are performed in Power BI.
 - Visualizations are created using appropriate charts.
+
+<img width="1527" height="857" alt="PowerBI Report overview" src="https://github.com/user-attachments/assets/aedf0291-305e-4b62-9afc-49043cf2b39e" />
 
 ## 🧭 Report Navigation
 
