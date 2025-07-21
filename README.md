@@ -17,8 +17,6 @@ The goal of this 3-week project is to:
 - Data modeling and **DAX** calculations are performed in Power BI.
 - Visualizations are created using appropriate charts.
 
-<img width="1527" height="857" alt="PowerBI Report overview" src="https://github.com/user-attachments/assets/aedf0291-305e-4b62-9afc-49043cf2b39e" />
-
 ## 🧭 Report Navigation
 
 When the report opens, users land on the **Home Page**, which includes:
@@ -41,6 +39,7 @@ Additionally, there are **hidden buttons** that navigate to two detailed pages:
 - **Customer Perspective**
 - **Category Perspective**
 
+<img width="1527" height="857" alt="PowerBI Report overview" src="https://github.com/user-attachments/assets/aedf0291-305e-4b62-9afc-49043cf2b39e" />
 ---
 
 ## 👥 Customer Perspective Page
@@ -52,6 +51,8 @@ Additionally, there are **hidden buttons** that navigate to two detailed pages:
 - Top 10 Customers in Istanbul (Table)  
 - Sales by Age Group (Chart)
 
+<img width="1382" height="782" alt="PowerBI-report2" src="https://github.com/user-attachments/assets/d02498ee-d7be-4c32-b156-cb6252004dc8" />
+
 ---
 
 ## 🗂️ Category Perspective Page
@@ -59,6 +60,8 @@ Additionally, there are **hidden buttons** that navigate to two detailed pages:
 - **Treemap** showing total revenue by category  
   (for elderly customers located in Istanbul)  
 - **Slicer** to filter by brands
+- 
+<img width="1381" height="780" alt="PowerBI-report3" src="https://github.com/user-attachments/assets/24842c42-1211-4470-b4f3-bce99225d3cd" />
 
 ---
 
