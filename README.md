@@ -2,7 +2,7 @@
 
 This project is developed as the second final case study for the **Data Analysis Bootcamp** organized by **[Patika.dev](https://www.patika.dev)** & **[Kız Başına](https://www.kizbasina.com/)**.
 
-![Report Screenshot](./PowerBI Report overview.png)
+<img width="1527" height="857" alt="PowerBI Report overview" src="https://github.com/user-attachments/assets/aedf0291-305e-4b62-9afc-49043cf2b39e" />
 
 ## 🎯 Project Objective
 
