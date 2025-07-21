@@ -2,6 +2,8 @@
 
 This project is developed as the second final case study for the **Data Analysis Bootcamp** organized by **[Patika.dev](https://www.patika.dev)** & **[Kız Başına](https://www.kizbasina.com/)**.
 
+![Report Screenshot](./PowerBI Report overview.png)
+
 ## 🎯 Project Objective
 
 The goal of this 3-week project is to enable participants to:
