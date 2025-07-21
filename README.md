@@ -19,7 +19,7 @@ The goal of this 3-week project is to:
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20"/> Download the Report
 
-[Download the Power BI report (.pbix)]([https://drive.google.com/file/d/1m-I8vZ1omJSeNQReuNXN6fF0XhxJkboF/view?usp=drive_link](https://drive.google.com/file/d/1m-I8vZ1omJSeNQReuNXN6fF0XhxJkboF/view?usp=sharing))
+[Download the Power BI report (.pbix)](https://drive.google.com/file/d/1m-I8vZ1omJSeNQReuNXN6fF0XhxJkboF/view?usp=sharing)
 
 ## 🧭 Report Navigation
 
