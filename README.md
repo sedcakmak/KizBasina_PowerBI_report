@@ -2,6 +2,10 @@
 
 This project is developed as the second final case study for the **Data Analysis Bootcamp** organized by **[Patika.dev](https://www.patika.dev)** & **[Kız Başına](https://www.kizbasina.com/)**.
 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20"/> Download the Report
+
+[Download the Power BI report (.pbix)](https://drive.google.com/file/d/1m-I8vZ1omJSeNQReuNXN6fF0XhxJkboF/view?usp=sharing)
+
 ## 🎯 Project Objective
 
 The goal of this 3-week project is to:
@@ -16,10 +20,6 @@ The goal of this 3-week project is to:
 - Data is imported into **Power BI Desktop**.
 - Data modeling and **DAX** calculations are performed in Power BI.
 - Visualizations are created using appropriate charts.
-
-### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="20"/> Download the Report
-
-[Download the Power BI report (.pbix)](https://drive.google.com/file/d/1m-I8vZ1omJSeNQReuNXN6fF0XhxJkboF/view?usp=sharing)
 
 ## 🧭 Report Navigation
 
