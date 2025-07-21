@@ -61,10 +61,9 @@ Additionally, there are **hidden buttons** that navigate to two detailed pages:
 
 ## 🗂️ Category Perspective Page
 
-- **Treemap** showing total revenue by category  
-  (for elderly customers located in Istanbul)  
+- **Treemap** showing total revenue by category (for senior customers located in Istanbul)  
 - **Slicer** to filter by brands
-- 
+  
 <img width="1381" height="780" alt="PowerBI-report3" src="https://github.com/user-attachments/assets/24842c42-1211-4470-b4f3-bce99225d3cd" />
 
 ---
